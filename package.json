@@ -12,7 +12,7 @@
     "next": "16.0.10",
     "react": "19.2.1",
     "react-dom": "19.2.1",
-    "@eclat/evaire-ui": "0.1.14-alpha"
+    "@eclat/evaire-ui": "0.1.17-alpha"
   },
   "devDependencies": {
     "@types/node": "^20",
